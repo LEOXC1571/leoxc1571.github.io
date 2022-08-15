@@ -23,7 +23,7 @@ permalink: /about/
 {% if site.url contains 'mazhuang.org' %}
 <li>
 微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/myqrcode.png" alt="我的微信二维码" />
+<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="我的微信二维码" />
 </li>
 {% endif %}
 </ul>
