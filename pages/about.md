@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 
+keywords: Leo Xu，徐璨
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是徐璨，浙江工商大学统计学硕士研究生一年级在读。
 
-仰慕「优雅编码的艺术」。
+现于之江实验室算法实习中。
 
-坚信熟能生巧，努力改变人生。
+研究方向包括：图神经网络，推荐系统，基于图的分子表征学习与分子图生成。
 
 ## 联系
 
