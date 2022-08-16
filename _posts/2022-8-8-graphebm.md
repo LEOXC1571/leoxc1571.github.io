@@ -1,4 +1,10 @@
-# GraphEBM: Molecular Graph Generation with Energy-based Models
+---
+layout: post
+title: GraphEBM Molecular Graph Generation with Energy-based Models
+categories: [Molecule, GNN]
+description: GraphEBM：基于能量的分子生成模型
+keywords: GraphEBM, 分子生成
+---
 
 ## 摘要
 - 现有的分子图生成模型无法保证分子内在属性的平移不变性，本文提出的GraphEBM运用基于能量的模型，并将能量函数以一种具备平移不变性的方式参数化，从而保证了GraphEBM的平移不变性。
