@@ -1,4 +1,10 @@
-# Parameterized explainer for graph neural network
+---
+layout: post
+title: Parameterized explainer for graph neural network
+categories: [Explainer, GNN]
+description: PGExplainer 图可解释性
+keywords: PGExplainer, 图可解释性
+---
 
 ## Abstract
 
@@ -20,18 +26,6 @@
 - 首先该框架将输入图结构分类两个子图，一个只对输出有主要影响的子图，剩余的指代与任务无关的边。目标函数为：运用图结构生成的输出和运用主要影响子图生成的输出之间的互信息，优化目标就是最大化该互信息函数。例如说，如果移除某条边会显著影响图结构的输出，那么这条边属于主要影响子图，否则其可以被视作是与任务无关的边。
 - 但是直接优化上述目标函数会导致存在2的M次方个候选主要影响子图。在此，本文为了缓解这一问题，假设解释性图是一个吉尔伯特随机图（Gilbert random graph），其中原图中备选中的每条边都独立同分布。其中每条边是否被选择是一个二元分布的随机变量，令G为图随机向量。基于上述假设，G的随机概率分布可以表示为。一个直接的假设就是边被随机选中的分布为伯努利分布，故也可以得到该目标函数。
 
-# Molecular Contrastive Learning of Representations via Graph Neural Networks
-
-## Introduction
-- 基于DNN的模型大多采用指纹向量（Fingerprint vectors）处理分析信息，现有的基于GNN的方法大多采用字符串编码表征（例如SMILES）。
-- 本文的工作提出MolCLR，MolCLR是一个训练超大无标签数据集的自监督框架。通过对比损失函数，MolCLR能够根据正样本对图结构和负样本对学习得到有效的表征信息。
-
-# Structure-aware interactive graph neural networks for the prediction of protein-ligand binding affinity.
-
-## Abstract
-- 药物研究常依赖于蛋白质配体结合亲和力的有效预测。近来，许多研究使用GNNs学习蛋白质配体复合物的表征并更好预测配体亲和力。
-- 现有模型通常将蛋白质配体复合物作为拓扑图结构，但分子结构的信息并未被充分运用，有些重要的长程原子交互作用并没有被充分提取。
-- 本文提出结构感知交互图神经网络（SIGN），其包含两个重要部分：极灵感图注意力层和对偶交互池化。尤其是极灵感图注意力层扮演节点-边聚合的角色，对偶交互池化用于收集交互边后续重建损失函数从而反映全局交互信息。
 
 
 
