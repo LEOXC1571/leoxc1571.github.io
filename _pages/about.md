@@ -31,7 +31,7 @@ My research interest includes graph neural networks, deep generative models, mol
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
-# 📝 Publications
+# 📝 [Publications](/publications)
 
 ``Information Sciences`` [A fairness-aware graph contrastive learning recommender framework for social tagging 
 systems](https://www.sciencedirect.com/science/article/pii/S0020025523006497). **Can Xu**, Yin, Zhang, Hongyang Chen, Ligang Dong, Weigang Wang.
@@ -42,7 +42,7 @@ Learning](https://www.frontiersin.org/articles/10.3389/fbioe.2022.827408/full). 
 # 🎖 Honors and Awards
 - *2023.10* National Scholarship 
 
-# [📖 Educations](/educations)
+# 📖 [Educations](/educations)
 - *2021.09 - 2023.12*, Master, Zhejiang Gongshang University, Hangzhou, China
 - *2017.09 - 2021.06*, Undergraduate, Nanjing University of Information Science and Technology, Nanjing, China
 - *2014.09 - 2017.06*, Suzhou High School, Suzhou, China
@@ -53,5 +53,5 @@ Learning](https://www.frontiersin.org/articles/10.3389/fbioe.2022.827408/full). 
 
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
-# 💻 Internships
+# 💻 [Internships](/internships)
 - *2022.07 - 2023.08*, Zhejiang Lab, Research Center for Graph Computing, Hangzhou, China.
