@@ -42,7 +42,7 @@ Learning](https://www.frontiersin.org/articles/10.3389/fbioe.2022.827408/full). 
 # 🎖 Honors and Awards
 - *2023.10* National Scholarship 
 
-# 📖 Educations
+# [📖 Educations](/educations)
 - *2021.09 - 2023.12*, Master, Zhejiang Gongshang University, Hangzhou, China
 - *2017.09 - 2021.06*, Undergraduate, Nanjing University of Information Science and Technology, Nanjing, China
 - *2014.09 - 2017.06*, Suzhou High School, Suzhou, China
