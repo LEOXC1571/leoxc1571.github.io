@@ -23,15 +23,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Can Xu"
-  avatar           : "images/personal_image.jpg"
-  bio              : "Lorem ipsum College"
+  avatar           : "images/mugshot.png"
+  bio              : "Zhejiang Gongshang University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=6tJ39VAAAAAJ"
   email            : "leoxc1571@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://leoxc1571.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -46,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0002-7354-9374"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
