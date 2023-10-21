@@ -6,8 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Leo Xu"
+description              : "Master degree candidate at Zhejiang Gongshang University. Will soon pursue a PhD at East 
+China Normal University, DaSE."
 repository               : "LEOXC1571/leoxc1571.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Can Xu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/personal_image.jpg"
   bio              : "Lorem ipsum College"
   location         : "Shanghai, China"
   employer         :
