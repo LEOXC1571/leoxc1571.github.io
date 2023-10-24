@@ -37,7 +37,8 @@ My research interest includes graph neural networks, deep generative models, mol
 systems](https://www.sciencedirect.com/science/article/pii/S0020025523006497). **Can Xu**, Yin, Zhang, Hongyang Chen, Ligang Dong, Weigang Wang.
 
 ``Front. Bioeng. Biotechnol.`` [Pursuit and Evasion Strategy of a Differential Game Based on Deep Reinforcement 
-Learning](https://www.frontiersin.org/articles/10.3389/fbioe.2022.827408/full). Can Xu, Yin Zhang, Weigang Wang, Ligang Dong.
+Learning](https://www.frontiersin.org/articles/10.3389/fbioe.2022.827408/full). **Can Xu**, Yin Zhang, Weigang Wang, 
+Ligang Dong.
 
 # 🎖 Honors and Awards
 - *2023.10* National Scholarship 
