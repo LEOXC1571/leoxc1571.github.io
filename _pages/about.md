@@ -23,7 +23,7 @@ pursue a PhD at East China Normal University, DaSE.
 My research interest includes graph neural networks, deep generative models, molecular learning, and recommender systems. 
 
 Check out my published papers at <a href='https://scholar.google.com/citations?user=6tJ39VAAAAAJ'><img 
-src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 [//]: # (I have published papers with total <a href='https://scholar.google.)
 
