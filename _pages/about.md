@@ -40,10 +40,13 @@ src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Sc
 
 # 📝 [Publications](/publications)
 
-``Information Sciences`` [A fairness-aware graph contrastive learning recommender framework for social tagging 
-systems](https://www.sciencedirect.com/science/article/pii/S0020025523006497). **Can Xu**, Yin, Zhang, Hongyang Chen, Ligang Dong, Weigang Wang.
+- ``AAAI-24`` [Geometric-facilitated Denoising Diffusion Model for 3D Molecule Generation](). **Can Xu**, Haosen 
+  Wang, Weigang Wang, Pengfei Zheng, Hongyang Chen. 
 
-``Front. Bioeng. Biotechnol.`` [Pursuit and Evasion Strategy of a Differential Game Based on Deep Reinforcement 
+- ``Information Sciences`` [A fairness-aware graph contrastive learning recommender framework for social tagging 
+systems](https://www.sciencedirect.com/science/article/pii/S0020025523006497). **Can Xu**, Yin Zhang, Hongyang Chen, Ligang Dong, Weigang Wang.
+
+- ``Front. Bioeng. Biotechnol.`` [Pursuit and Evasion Strategy of a Differential Game Based on Deep Reinforcement 
 Learning](https://www.frontiersin.org/articles/10.3389/fbioe.2022.827408/full). **Can Xu**, Yin Zhang, Weigang Wang, 
 Ligang Dong.
 
