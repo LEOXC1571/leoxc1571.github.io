@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a 3rd year master degree candidate at Zhejiang Gongshang University, majoring in statistics. I'll soon 
-pursue a PhD at East China Normal University, DaSE.
+I recently graduate from Zhejiang Gongshang University with a master degree of science. I'll 
+soon pursue a PhD at East China Normal University, DaSE.
 
 My research interest includes graph neural networks, deep generative models, molecular learning, and recommender systems. 
 
@@ -32,15 +32,16 @@ src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Sc
 [//]: # (&#40;You can also use google scholar badge <a href='https://scholar.google.com/citations?user=6tJ39VAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>&#41;.)
 
 
-[//]: # (# 🔥 News)
+# 🔥 News
 
-[//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+- *2024.01*: &nbsp;🎉🎉 Our paper titled 'Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation' 
+  has been accepted by AAAI-24!
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 [Publications](/publications)
 
-- ``AAAI-24`` [Geometric-facilitated Denoising Diffusion Model for 3D Molecule Generation](). **Can Xu**, Haosen 
+- ``AAAI-24`` [Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation](https://arxiv.org/abs/2401.02683). **Can Xu**, Haosen 
   Wang, Weigang Wang, Pengfei Zheng, Hongyang Chen. 
 
 - ``Information Sciences`` [A fairness-aware graph contrastive learning recommender framework for social tagging 
