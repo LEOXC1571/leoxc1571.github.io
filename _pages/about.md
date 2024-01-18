@@ -33,23 +33,22 @@ src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Sc
 
 
 # 🔥 News
-
-- *2024.01*: &nbsp;🎉🎉 Our paper titled 'Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation' 
+- *2023.01*: &nbsp;🎉🎉 Our paper titled 'Training-free Multi-objective Diffusion Model for 3D Molecule Generation'
+  has been accepted by ICLR-24!
+- *2023.12*: &nbsp;🎉🎉 Our paper titled 'Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation' 
   has been accepted by AAAI-24!
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 [Publications](/publications)
 
-- ``AAAI-24`` [Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation](https://arxiv.org/abs/2401.02683). **Can Xu**, Haosen 
-  Wang, Weigang Wang, Pengfei Zheng, Hongyang Chen. 
+- ``ICLR-24`` [Training-free Multi-objective Diffusion Model for 3D Molecule Generation](https://openreview.net/forum?id=X41c4uB4k0). Xu Han, Caihua Shan, Yifei Shen, **Can Xu**, Han Yang, Xiang Li, Dongsheng Li.
 
-- ``Information Sciences`` [A fairness-aware graph contrastive learning recommender framework for social tagging 
-systems](https://www.sciencedirect.com/science/article/pii/S0020025523006497). **Can Xu**, Yin Zhang, Hongyang Chen, Ligang Dong, Weigang Wang.
+- ``AAAI-24`` [Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation](https://arxiv.org/abs/2401.02683). **Can Xu**, Haosen Wang, Weigang Wang, Pengfei Zheng, Hongyang Chen. 
 
-- ``Front. Bioeng. Biotechnol.`` [Pursuit and Evasion Strategy of a Differential Game Based on Deep Reinforcement 
-Learning](https://www.frontiersin.org/articles/10.3389/fbioe.2022.827408/full). **Can Xu**, Yin Zhang, Weigang Wang, 
-Ligang Dong.
+- ``Information Sciences`` [A fairness-aware graph contrastive learning recommender framework for social tagging systems](https://www.sciencedirect.com/science/article/pii/S0020025523006497). **Can Xu**, Yin Zhang, Hongyang Chen, Ligang Dong, Weigang Wang.
+
+- ``Front. Bioeng. Biotechnol.`` [Pursuit and Evasion Strategy of a Differential Game Based on Deep Reinforcement Learning](https://www.frontiersin.org/articles/10.3389/fbioe.2022.827408/full). **Can Xu**, Yin Zhang, Weigang Wang, Ligang Dong.
 
 # 🎖 Honors and Awards
 - *2023.10* National Scholarship 
