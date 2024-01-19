@@ -33,7 +33,7 @@ src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Sc
 
 
 # 🔥 News
-- *2023.01*: &nbsp;🎉🎉 Our paper titled 'Training-free Multi-objective Diffusion Model for 3D Molecule Generation'
+- *2024.01*: &nbsp;🎉🎉 Our paper titled 'Training-free Multi-objective Diffusion Model for 3D Molecule Generation'
   has been accepted by ICLR-24!
 - *2023.12*: &nbsp;🎉🎉 Our paper titled 'Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation' 
   has been accepted by AAAI-24!
