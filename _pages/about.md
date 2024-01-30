@@ -33,10 +33,9 @@ src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Sc
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Our paper titled 'Training-free Multi-objective Diffusion Model for 3D Molecule Generation'
-  has been accepted by ICLR-24!
-- *2023.12*: &nbsp;🎉🎉 Our paper titled 'Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation' 
-  has been accepted by AAAI-24!
+- *2024.01*: &nbsp;🎉🎉 The preprint version of our survey titled 'Diffusion-based Graph Generative Methods' is online.
+- *2024.01*: &nbsp;🎉🎉 Our paper titled 'Training-free Multi-objective Diffusion Model for 3D Molecule Generation' has been accepted by ICLR-24!
+- *2023.12*: &nbsp;🎉🎉 Our paper titled 'Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation' has been accepted by AAAI-24!
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
