@@ -44,7 +44,7 @@ src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Sc
 
 - ``ICLR-24`` [Training-free Multi-objective Diffusion Model for 3D Molecule Generation](https://openreview.net/forum?id=X41c4uB4k0). Xu Han, Caihua Shan, Yifei Shen, **Can Xu**, Han Yang, Xiang Li, Dongsheng Li.
 
-- ``AAAI-24`` [Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation](https://arxiv.org/abs/2401.02683). **Can Xu**, Haosen Wang, Weigang Wang, Pengfei Zheng, Hongyang Chen. 
+- ``AAAI-24`` [Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation](https://doi.org/10.1609/aaai.v38i1.27787). **Can Xu**, Haosen Wang, Weigang Wang, Pengfei Zheng, Hongyang Chen. 
 
 - ``Information Sciences`` [A fairness-aware graph contrastive learning recommender framework for social tagging systems](https://www.sciencedirect.com/science/article/pii/S0020025523006497). **Can Xu**, Yin Zhang, Hongyang Chen, Ligang Dong, Weigang Wang.
 
