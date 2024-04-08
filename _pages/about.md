@@ -33,14 +33,14 @@ src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Sc
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Our paper titled 'Training-free Multi-objective Diffusion Model for 3D Molecule Generation'
-  has been accepted by ICLR-24!
-- *2023.12*: &nbsp;🎉🎉 Our paper titled 'Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation' 
-  has been accepted by AAAI-24!
+- *2024.01*: &nbsp;🎉🎉 The preprint version of our survey titled 'Diffusion-based Graph Generative Methods' is online.
+- *2024.01*: &nbsp;🎉🎉 Our paper titled 'Training-free Multi-objective Diffusion Model for 3D Molecule Generation' has been accepted by ICLR-24!
+- *2023.12*: &nbsp;🎉🎉 Our paper titled 'Geometric-Facilitated Denoising Diffusion Model for 3D Molecule Generation' has been accepted by AAAI-24!
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 [Publications](/publications)
+  - ``TKDE(Under Review)`` [Diffusion-based Graph Generative Methods](https://arxiv.org/abs/2401.15617). Hongyang Chen, **Can Xu**, Lingyu Zheng, Qiang Zhang, Xuemin Lin.
 
 - ``ICLR-24`` [Training-free Multi-objective Diffusion Model for 3D Molecule Generation](https://openreview.net/forum?id=X41c4uB4k0). Xu Han, Caihua Shan, Yifei Shen, **Can Xu**, Han Yang, Xiang Li, Dongsheng Li.
 
