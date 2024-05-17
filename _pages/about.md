@@ -41,7 +41,7 @@ src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Sc
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 [Publications](/publications)
-- ``KDD-24`` [Unsupervised Heterogeneous Graph Rewriting Attack via Node Clustering](https://openreview.net/forum?id=mhWoMQ3OBz). Hoasen Wang, **Can Xu**, Chenglong Shi,  PengFei Zheng, ShimingZhang, Minhao Cheng, Hongyang Chen.
+- ``KDD-24`` [Unsupervised Heterogeneous Graph Rewriting Attack via Node Clustering](https://openreview.net/forum?id=mhWoMQ3OBz). Hoasen Wang, **Can Xu**, Chenglong Shi,  PengFei Zheng, Shiming Zhang, Minhao Cheng, Hongyang Chen.
 
 - ``TKDE(Under Review)`` [Diffusion-based Graph Generative Methods](https://arxiv.org/abs/2401.15617). Hongyang Chen, **Can Xu**, Lingyu Zheng, Qiang Zhang, Xuemin Lin. (Co-first Author)
 
