@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I recently graduate from Zhejiang Gongshang University with a master degree of science. I'll 
-soon pursue a PhD at East China Normal University, DaSE.
+I recently graduate from Zhejiang Gongshang University with a master degree of science. I'm a PhD candidate under 
+the advisement of [Prof. Xiang Li](https://lixiang3776.github.io/) at East China Normal University, DaSE.
 
 My research interest includes graph neural networks, deep generative models, molecular learning, and recommender systems. 
 

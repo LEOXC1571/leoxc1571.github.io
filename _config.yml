@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Can Xu (徐璨)"
   avatar           : "images/avatar_king_nemo.jpg"
-  bio              : "Zhejiang Gongshang University"
+  bio              : "DaSE, East China Normal University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=6tJ39VAAAAAJ"
   email            : "leoxc1571@163.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Can-Xu-39"
   uri              : "https://leoxc1571.github.io"
   bitbucket        :
   codepen          :
