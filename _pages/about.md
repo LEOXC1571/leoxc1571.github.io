@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I recently graduate from Zhejiang Gongshang University with a master degree of science. I'm a PhD candidate under 
-the advisement of [Xiang Li](https://lixiang3776.github.io/) at East China Normal University, DaSE.
+I'm a PhD candidate under the advisement of [Xiang Li](https://lixiang3776.github.io/) at East China Normal University, DaSE.
 
 My research interest includes graph neural networks, deep generative models, molecular learning, and recommender systems. 
 
@@ -33,6 +32,7 @@ src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Sc
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Our paper titled 'Diffusion-based Graph Generative Methods' has been accepted by IEEE Transactions on Knowledge and Data Engineering.
 - *2024.05*: &nbsp;🎉🎉 Our paper titled 'Unsupervised Heterogeneous Graph Rewriting Attack via Node Clustering' has been accepted by KDD-24.
 - *2024.01*: &nbsp;🎉🎉 The preprint version of our survey titled 'Diffusion-based Graph Generative Methods' is online.
 - *2024.01*: &nbsp;🎉🎉 Our paper titled 'Training-free Multi-objective Diffusion Model for 3D Molecule Generation' has been accepted by ICLR-24!
@@ -46,7 +46,7 @@ src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Sc
 
 - ``KDD-24`` [Unsupervised Heterogeneous Graph Rewriting Attack via Node Clustering](https://openreview.net/forum?id=mhWoMQ3OBz). Hoasen Wang, **Can Xu**, Chenglong Shi,  PengFei Zheng, Shiming Zhang, Minhao Cheng, Hongyang Chen.
 
-- ``TKDE(Under Review)`` [Diffusion-based Graph Generative Methods](https://arxiv.org/abs/2401.15617). Hongyang Chen, **Can Xu**, Lingyu Zheng, Qiang Zhang, Xuemin Lin. (Co-first Author)
+- ``TKDE`` [Diffusion-based Graph Generative Methods](https://arxiv.org/abs/2401.15617). Hongyang Chen, **Can Xu**, Lingyu Zheng, Qiang Zhang, Xuemin Lin. (Co-first Author)
 
 - ``ICLR-24`` [Training-free Multi-objective Diffusion Model for 3D Molecule Generation](https://openreview.net/forum?id=X41c4uB4k0). Xu Han, Caihua Shan, Yifei Shen, **Can Xu**, Han Yang, Xiang Li, Dongsheng Li.
 
