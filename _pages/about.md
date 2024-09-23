@@ -46,7 +46,7 @@ src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Sc
 
 - ``KDD-24`` [Unsupervised Heterogeneous Graph Rewriting Attack via Node Clustering](https://openreview.net/forum?id=mhWoMQ3OBz). Hoasen Wang, **Can Xu**, Chenglong Shi,  PengFei Zheng, Shiming Zhang, Minhao Cheng, Hongyang Chen.
 
-- ``TKDE`` [Diffusion-based Graph Generative Methods](https://arxiv.org/abs/2401.15617). Hongyang Chen, **Can Xu**, Lingyu Zheng, Qiang Zhang, Xuemin Lin. (Co-first Author)
+- ``TKDE`` [Diffusion-based Graph Generative Methods](https://doi.org/10.1109/TKDE.2024.3466301). Hongyang Chen, **Can Xu**, Lingyu Zheng, Qiang Zhang, Xuemin Lin. (Co-first Author)
 
 - ``ICLR-24`` [Training-free Multi-objective Diffusion Model for 3D Molecule Generation](https://openreview.net/forum?id=X41c4uB4k0). Xu Han, Caihua Shan, Yifei Shen, **Can Xu**, Han Yang, Xiang Li, Dongsheng Li.
 
