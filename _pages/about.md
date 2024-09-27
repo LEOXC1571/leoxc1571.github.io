@@ -41,8 +41,7 @@ src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Sc
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 [Publications](/publications)
-- ``Preprint`` [Improving Graph Out-of-distribution Generalization on Real-world Data](https://arxiv.org/abs/2407.
-  10204). **Can Xu**, Yao Cheng, Jianxiang Yu, Haosen Wang, Jingsong Lv, Xiang Li.
+- ``Preprint`` [Improving Graph Out-of-distribution Generalization on Real-world Data](https://arxiv.org/abs/2407.10204). **Can Xu**, Yao Cheng, Jianxiang Yu, Haosen Wang, Jingsong Lv, Xiang Li.
 
 - ``KDD-24`` [Unsupervised Heterogeneous Graph Rewriting Attack via Node Clustering](https://openreview.net/forum?id=mhWoMQ3OBz). Hoasen Wang, **Can Xu**, Chenglong Shi,  PengFei Zheng, Shiming Zhang, Minhao Cheng, Hongyang Chen.
 
