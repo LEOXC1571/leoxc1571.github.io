@@ -21,8 +21,7 @@ I'm a PhD candidate under the advisement of [Xiang Li](https://lixiang3776.githu
 
 My research interest includes large language models, graph neural networks, deep generative models, molecular learning, and recommender systems. 
 
-[//]: # (Check out my published papers at <a href='https://scholar.google.com/citations?user=6tJ39VAAAAAJ'><img 
-src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. )
+[//]: # (Check out my published papers at <a href='https://scholar.google.com/citations?user=6tJ39VAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. )
 
 [//]: # (I have published papers with total <a href='https://scholar.google.)
 
