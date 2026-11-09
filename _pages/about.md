@@ -33,8 +33,9 @@ src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Sc
 
 # 🔥 News
 - *2026.11*: &nbsp;🎉🎉 Our paper titled 'Improving Graph Out-of-distribution Generalization Beyond Causality' has been accepted by WSDM-27!
+- *2026.11*: &nbsp;DuMate-DeepResearch has been launched on [Baidu Qianfan](https://console.bce.baidu.com/qianfan/studio/officialApp/deepResearch/69a72b3f-a18c-2f02-9ba0-007beb95b315) and integrated into [DuMate Desktop](https://www.dumate.cn/) as a skill.
 - *2026.08*: &nbsp;The preprint version of our paper titled 'DuMateBench: Evaluating Autonomous Agents in Complex Real-World Workflows' is online.
-- *2026.06*: &nbsp;The preprint version of our paper titled 'DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning' is online.
+- *2026.06*: &nbsp;Our tech report titled 'DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning' is online.
 - *2026.05*: &nbsp;🎉🎉 Our paper titled 'Adversarial Yet Cooperative: Multi-Perspective Reasoning in Retrieved-Augmented Language Models' has been accepted by ACL-26 (Findings)!
 - *2024.09*: &nbsp;🎉🎉 Our paper titled 'Diffusion-based Graph Generative Methods' has been accepted by IEEE Transactions on Knowledge and Data Engineering.
 - *2024.05*: &nbsp;🎉🎉 Our paper titled 'Unsupervised Heterogeneous Graph Rewriting Attack via Node Clustering' has been accepted by KDD-24.
@@ -51,7 +52,7 @@ src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Sc
 
 - ``Preprint`` [DuMateBench: Evaluating Autonomous Agents in Complex Real-World Workflows](https://arxiv.org/abs/2608.26546). Zechun Niu, Yukun Zhao, Jiaxin Zhang, Xu Shen, Jinhua Si, Han Tian, **Can Xu**, Yunfan Song, Jiaxin Mao, Yansong Gao, Yuchen Li, Jianmin Wu, Lingyong Yan, Shuaiqiang Wang, Dawei Yin.
 
-- ``Preprint`` [DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning](https://arxiv.org/abs/2606.07299). Lingyong Yan, **Can Xu**, Yukun Zhao, Wenxuan Li, Qingyang Chen, Jiulong Wu, Wenli Song, Xiangnan Li, Weixian Shi, Yiqun Chen, Xuchen Ma, Yuchen Li, Jiashu Zhao, Shuaiqiang Wang, Jianmin Wu, Dawei Yin.
+- ``Tech Report`` [DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning](https://arxiv.org/abs/2606.07299). Lingyong Yan, **Can Xu**, Yukun Zhao, Wenxuan Li, Qingyang Chen, Jiulong Wu, Wenli Song, Xiangnan Li, Weixian Shi, Yiqun Chen, Xuchen Ma, Yuchen Li, Jiashu Zhao, Shuaiqiang Wang, Jianmin Wu, Dawei Yin. The system has been launched on [Baidu Qianfan](https://console.bce.baidu.com/qianfan/studio/officialApp/deepResearch/69a72b3f-a18c-2f02-9ba0-007beb95b315) and integrated into [DuMate Desktop](https://www.dumate.cn/) as a skill.
 
 - ``FCS`` [A survey on learning from graphs with heterophily: recent advances and future directions](https://doi.org/10.1007/s11704-025-41059-z). Cheng-Hua Gong, Yao Cheng, Jian-Xiang Yu, **Can Xu**, Cai-Hua Shan, Si-Qiang Luo, Xiang Li.
 
